@@ -1,5 +1,5 @@
 main:
   - title: "Blog"
-    url: /blog/
+    url: /posts/
   - title: "Get a free prompt"
     url: /free-prompt/
